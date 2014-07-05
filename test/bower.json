@@ -2,8 +2,8 @@
   "name": "elevatorvis",
   "private": true,
   "dependencies": {
-    "jquery": "~1.11.0",
-    "underscore": "~1.6.0"
+    "chai": "~1.8.0",
+    "mocha": "~1.14.0"
   },
   "devDependencies": {}
 }
